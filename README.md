@@ -2,7 +2,7 @@
 
 ## About 
 
-5 animated HTML, CSS, and JavaScript Olympic rings to celebrate Paris 2024!
+5 animated HTML, CSS, and JavaScript Olympic rings to celebrate the Paris 2024 Olympics!
 
 ## Instructions for Use
 
