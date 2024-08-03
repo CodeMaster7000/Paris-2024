@@ -1,30 +1,30 @@
-		.olympic {
-		  margin: auto;
-		  margin-top: 100px;
-		  width: 600px;
-		  height: 300px;
-		  position: relative;
-		}
-		.olympic div {
-		  width: 160px;
-		}
-		#two {
-		  position: absolute;
-		  top: 75px;
-		  left: 85px;
-		}
-                #three {
-		  position: absolute;
-		  top: 0px;
-		  left: 170px;
-		}
-		#four {
-		  position: absolute;
-		  top: 75px;
-		  left: 255px;
-		}
-		#five {
-		  position: absolute;
-		  top: 0px;
-		  left: 340px;
-		}
+.olympic {
+  margin: auto;
+  margin-top: 100px;
+  width: 600px;
+  height: 300px;
+  position: relative;
+}
+.olympic div {
+  width: 160px;
+}
+#two {
+  position: absolute;
+  top: 75px;
+  left: 85px;
+}
+#three {
+  position: absolute;
+  top: 0px;
+  left: 170px;
+}
+#four {
+  position: absolute;
+  top: 75px;
+  left: 255px;
+}
+#five {
+  position: absolute;
+  top: 0px;
+  left: 340px;
+}
